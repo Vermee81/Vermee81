@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+In some projects, I serve as a Product Manager or Technical Director.
+Unfortunately, I'm not currently writing code professionally, but I do code as a hobby.😀
+The language I use most often is Python 🐍.
+
+[![Vermee81's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vermee81&show_icons=true&count_private=true&theme=swift)](https://github.com/Vermee81/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vermee81&layout=compact)](https://github.com/Vermee81/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vermee81&repo=play-chatGPT)](https://github.com/Vermee81/play-chatGPT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vermee81&repo=MyWordle)](https://github.com/Vermee81/MyWordle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vermee81&repo=myShellEnv)](https://github.com/Vermee81/myShellEnv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vermee81&repo=practice-coding-contests)](https://github.com/Vermee81/practice-coding-contests)
+
 <!--
 **Vermee81/Vermee81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
